@@ -164,19 +164,22 @@ The project includes a Streamlit dashboard for interactive visualization.
 
 # Screenshots
 
-Add screenshots in the `assets/` folder and update the paths below.
-
 ## Dashboard Home
 
-![Dashboard](assets/dashboard_home.png)
+<img width="1362" height="622" alt="image" src="https://github.com/user-attachments/assets/6ef27dfc-9e20-4121-a6ae-fda95761d5b9" />
+
 
 ## Forecast Visualization
 
-![Forecast](assets/forecast_plot.png)
+<img width="1354" height="560" alt="image" src="https://github.com/user-attachments/assets/2c8848ca-20ab-4880-a4e2-243f26de2cfa" />
+
 
 ## Model Comparison
 
-![Model Comparison](assets/model_comparison.png)
+<img width="953" height="354" alt="image" src="https://github.com/user-attachments/assets/9011b037-c5b1-4a08-ab43-4d6c4316c8d3" />
+
+<img width="956" height="502" alt="image" src="https://github.com/user-attachments/assets/e859d79b-50e2-4aef-bd3d-49ba0718ce8d" />
+
 
 ---
 
