@@ -188,7 +188,7 @@ The project includes a Streamlit dashboard for interactive visualization.
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/commodity-price-forecasting-agent.git
+git clone https://github.com/Harshit-0021/commodity-price-forecasting-agent.git
 cd commodity-price-forecasting-agent
 ```
 
@@ -243,13 +243,11 @@ http://localhost:8501
 
 ## Live Dashboard
 
-Add your deployed Streamlit link here after deployment:
-
 **Streamlit App:** `https://your-streamlit-app-url`
 
 ## Source Code
 
-**GitHub Repository:** `https://github.com/YOUR_USERNAME/commodity-price-forecasting-agent`
+**GitHub Repository:** `https://github.com/Harshit-0021/commodity-price-forecasting-agent`
 
 ---
 
@@ -295,8 +293,7 @@ This project demonstrates skills expected from an **AI/ML or Data Science intern
 **Harshit**
 B.Tech, Information Technology
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
+* GitHub: https://github.com/Harshit-0021
 
 ---
 
