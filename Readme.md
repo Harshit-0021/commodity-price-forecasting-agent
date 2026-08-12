@@ -27,6 +27,14 @@ Commodity prices are highly volatile and influenced by multiple market factors. 
 
 ---
 
+## Streamlit Live Demo
+
+Click the badge below to launch the interactive dashboard.
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://silver-lesgo.streamlit.app/)
+
+---
+
 ## Technologies Used
 
 | Category         | Tools / Libraries     |
@@ -243,7 +251,7 @@ http://localhost:8501
 
 ## Live Dashboard
 
-**Streamlit App:** `https://your-streamlit-app-url`
+**Streamlit App:** `https://silver-lesgo.streamlit.app/`
 
 ## Source Code
 
