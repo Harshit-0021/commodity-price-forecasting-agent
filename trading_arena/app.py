@@ -417,7 +417,7 @@ st.sidebar.write("Developed by Harshit (B.Tech, Information Technology)")
 
 st.sidebar.link_button(
     "⭐ GitHub Repository",
-    "https://github.com/YOUR_USERNAME/commodity-price-forecasting-agent"
+    "https://github.com/Harshit-0021/commodity-price-forecasting-agent"
 )
 st.markdown("---")
 st.caption(
