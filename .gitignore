@@ -5,7 +5,7 @@ __pycache__/
 *.pyd
 
 .ipynb_checkpoints/
-
+.idea
 .env
 
 .DS_Store
